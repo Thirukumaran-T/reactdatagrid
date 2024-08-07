@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.MuiDialog-paper {
+  background-color: white;
+  padding: 20px;
+}
+
